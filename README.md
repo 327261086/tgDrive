@@ -10,7 +10,7 @@
 ![GitHub license](https://img.shields.io/github/license/SkyDependence/tgDrive)
 [![tg-qun](https://img.shields.io/static/v1?label=TG%E7%BE%A4&amp;message=TgDrive&amp;color=blue)](https://t.me/+nhHtap9IYbVhOTM1)
 [![Ask DeepWiki](https://deepwiki.com/badge.svg)](https://deepwiki.com/SkyDependence/tgDrive)
-![](https://img.orgv.de/webdav/20260107105626426.webp)
+
 **tgDrive** 是一款使用 Java 开发的基于 Telegram Bot 的网盘应用，支持不限容量和速度的文件存储。通过多线程技术和优化的传输策略，为用户提供高效、可靠的云存储解决方案。
 
 ## 目录
@@ -322,7 +322,7 @@ server {
 - 🐛 提交 Issue 或 Pull Request
 
 您的支持是项目持续发展的动力！
-
+![tp](https://img.orgv.de/webdav/20260107105626426.webp)
 ### Star 趋势
 
 [![Star History Chart](https://api.star-history.com/svg?repos=SkyDependence/tgDrive&type=Date)](https://star-history.com/#SkyDependence/tgDrive&Date)
